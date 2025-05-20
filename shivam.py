@@ -32,7 +32,7 @@ cooldown_dict = {}
 # Default values (in case not set by the admin)
 DEFAULT_BYTE_SIZE = 24
 DEFAULT_THREADS = 900
-DEFAULT_MAX_ATTACK_TIME = 240
+DEFAULT_MAX_ATTACK_TIME = 580
 
 # Adjust this to your local timezone, e.g., 'America/New_York' or 'Asia/Kolkata'
 LOCAL_TIMEZONE = pytz.timezone("Asia/Kolkata")
